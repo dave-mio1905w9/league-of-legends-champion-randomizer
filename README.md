@@ -36,4 +36,4 @@ To force-refresh the cached champion data from Riot's servers:
 python randomizer.py --refresh
 ```
 
-<!-- updated: 2026-09-18 -->
+<!-- updated: 2026-09-19 -->
